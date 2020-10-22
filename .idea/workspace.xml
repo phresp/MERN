@@ -3,12 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="34953a21-7219-44b0-a653-a2a7f35f0571" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/keys.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/keys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/passport.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/passport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/posts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/profile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/is-empty.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/is-empty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/register.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +43,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="F:\Github-Projects\MERN\node_modules\prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -60,6 +68,9 @@
       <workItem from="1603284873497" duration="87000" />
       <workItem from="1603284971854" duration="18000" />
       <workItem from="1603285005158" duration="21000" />
+      <workItem from="1603285037558" duration="707000" />
+      <workItem from="1603345932159" duration="9439000" />
+      <workItem from="1603361470105" duration="11401000" />
     </task>
     <servers />
   </component>
@@ -71,13 +82,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="725" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603280129411" />
-    <state x="642" y="383" key="FileChooserDialogImpl" timestamp="1603284943782">
+    <state x="642" y="383" key="FileChooserDialogImpl" timestamp="1603361490312">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="642" y="383" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603284943782" />
-    <state x="128" y="287" width="1468" height="711" key="SettingsEditor" timestamp="1603285021997">
+    <state x="642" y="383" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603361490312" />
+    <state x="228" y="204" width="1468" height="711" key="SettingsEditor" timestamp="1603361531015">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="128" y="287" width="1468" height="711" key="SettingsEditor/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603285021997" />
+    <state x="228" y="204" width="1468" height="711" key="SettingsEditor/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603361531015" />
   </component>
 </project>

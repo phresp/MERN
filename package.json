@@ -29,6 +29,7 @@
     "validator": "^13.1.17"
   },
   "devDependencies": {
-    "nodemon": "^2.0.5"
+    "nodemon": "^2.0.5",
+    "prettier": "2.1.2"
   }
 }
