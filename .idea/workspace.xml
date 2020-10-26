@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34953a21-7219-44b0-a653-a2a7f35f0571" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/layout/Landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/Landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/layout/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/Navbar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,9 @@
       <workItem from="1603527686599" duration="5771000" />
       <workItem from="1603641877464" duration="4250000" />
       <workItem from="1603698742348" duration="4089000" />
-      <workItem from="1603705155877" duration="3250000" />
+      <workItem from="1603705155877" duration="7204000" />
+      <workItem from="1603733940951" duration="109000" />
+      <workItem from="1603734079991" duration="1101000" />
     </task>
     <servers />
   </component>
@@ -82,13 +86,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="383" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603361490312" />
-    <state x="11" y="30" width="1879" height="955" key="SettingsEditor" timestamp="1603705632008">
+    <state x="11" y="30" width="1879" height="955" key="SettingsEditor" timestamp="1603734705828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="11" y="30" width="1879" height="955" key="SettingsEditor/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603705632008" />
+    <state x="11" y="30" width="1879" height="955" key="SettingsEditor/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603734705828" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603645981270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603645981270" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1603734730336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603734730336" />
   </component>
 </project>
