@@ -13,7 +13,7 @@ const validateLoginInput = require("../../validation/login");
 //Load User model
 const User = require("../../models/User");
 
-// @route   GET /api/users/testa
+// @route   GET /api/users/test
 // @desc    Tess users route
 // @access  Public
 

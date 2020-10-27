@@ -4,9 +4,10 @@
     <list default="true" id="34953a21-7219-44b0-a653-a2a7f35f0571" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/layout/Landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/Landing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/layout/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/layout/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/auth/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/auth/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/auth/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/auth/Register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/login.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../verleihtool" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="F:\Github-Projects\MERN\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
@@ -70,7 +72,8 @@
       <workItem from="1603698742348" duration="4089000" />
       <workItem from="1603705155877" duration="7204000" />
       <workItem from="1603733940951" duration="109000" />
-      <workItem from="1603734079991" duration="1101000" />
+      <workItem from="1603734079991" duration="5698000" />
+      <workItem from="1603782489464" duration="8251000" />
     </task>
     <servers />
   </component>
@@ -82,10 +85,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="725" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603280129411" />
-    <state x="642" y="383" key="FileChooserDialogImpl" timestamp="1603361490312">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-958" y="511" key="FileChooserDialogImpl" timestamp="1603746753101">
+      <screen x="-1440" y="194" width="1440" height="860" />
     </state>
-    <state x="642" y="383" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603361490312" />
+    <state x="-958" y="511" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@-1440.194.1440.860" timestamp="1603746753101" />
+    <state x="642" y="383" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603745292299" />
     <state x="11" y="30" width="1879" height="955" key="SettingsEditor" timestamp="1603734705828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
