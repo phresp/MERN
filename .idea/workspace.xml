@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34953a21-7219-44b0-a653-a2a7f35f0571" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions/authActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/authActions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/auth/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/auth/Register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/authReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/authReducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="F:\Github-Projects\MERN\node_modules\prettier" />
     <property name="run.prettier.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -71,7 +72,8 @@
       <workItem from="1603705155877" duration="7204000" />
       <workItem from="1603733940951" duration="109000" />
       <workItem from="1603734079991" duration="5698000" />
-      <workItem from="1603782489464" duration="12263000" />
+      <workItem from="1603782489464" duration="19082000" />
+      <workItem from="1603873788883" duration="1994000" />
     </task>
     <servers />
   </component>
@@ -83,15 +85,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="725" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603802946994" />
-    <state x="-958" y="511" key="FileChooserDialogImpl" timestamp="1603746753101">
-      <screen x="-1440" y="194" width="1440" height="860" />
-    </state>
-    <state x="-958" y="511" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@-1440.194.1440.860" timestamp="1603746753101" />
-    <state x="642" y="383" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603745292299" />
-    <state x="11" y="30" width="1879" height="955" key="SettingsEditor" timestamp="1603734705828">
+    <state x="642" y="383" key="FileChooserDialogImpl" timestamp="1603824458507">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="11" y="30" width="1879" height="955" key="SettingsEditor/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603734705828" />
+    <state x="-958" y="511" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@-1440.194.1440.860" timestamp="1603746753101" />
+    <state x="642" y="383" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603824458507" />
+    <state x="11" y="30" width="1879" height="955" key="SettingsEditor" timestamp="1603874998079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="11" y="30" width="1879" height="955" key="SettingsEditor/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603874998079" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603645981270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
