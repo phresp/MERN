@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34953a21-7219-44b0-a653-a2a7f35f0571" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/common/InputGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/common/SelectListGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/common/TextAreaFieldGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/create-profile/CreateProfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/actions/profileActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/profileActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/common/PrivateRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/common/PrivateRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/common/Spinner.gif" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/common/Spinner.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/common/Spinner.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/common/Spinner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/common/TextFieldGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/common/TextFieldGroup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/auth/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/auth/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/auth/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/auth/Register.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/dashboard/Dashboard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Github-Projects\MERN\client\src\components" />
       <recent name="F:\Github-Projects\MERN\client\src\img" />
       <recent name="F:\Github-Projects\MERN" />
     </key>
@@ -80,6 +91,7 @@
       <workItem from="1604145420211" duration="2041000" />
       <workItem from="1604225886121" duration="5529000" />
       <workItem from="1604247235033" duration="6958000" />
+      <workItem from="1604297540646" duration="13019000" />
     </task>
     <servers />
   </component>
@@ -96,18 +108,18 @@
     </state>
     <state x="-958" y="511" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@-1440.194.1440.860" timestamp="1603746753101" />
     <state x="642" y="383" key="FileChooserDialogImpl/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603875976599" />
-    <state x="11" y="30" width="1879" height="955" key="SettingsEditor" timestamp="1604257003972">
+    <state x="11" y="30" width="1879" height="955" key="SettingsEditor" timestamp="1604316226124">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="11" y="30" width="1879" height="955" key="SettingsEditor/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1604257003972" />
+    <state x="11" y="30" width="1879" height="955" key="SettingsEditor/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1604316226124" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603645981270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1603645981270" />
-    <state x="503" y="39" width="1096" height="701" key="dock-window-1" timestamp="1604056600002">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1920" y="-836" width="1096" height="1880" key="dock-window-1" timestamp="1604319527862">
+      <screen x="1920" y="-836" width="1080" height="1880" />
     </state>
-    <state x="503" y="39" width="1096" height="701" key="dock-window-1/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1604056600002" />
+    <state x="1920" y="-836" width="1096" height="1880" key="dock-window-1/0.0.1920.1040/-1440.194.1440.860/1920.-836.1080.1880@0.0.1920.1040" timestamp="1604319527862" />
     <state x="1920" y="-781" width="1096" height="1714" key="dock-window-2" timestamp="1604056600002">
       <screen x="1920" y="-836" width="1080" height="1880" />
     </state>
