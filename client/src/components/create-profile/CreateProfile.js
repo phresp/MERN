@@ -180,7 +180,7 @@ class CreateProfile extends Component {
                   value={this.state.location}
                   name="location"
                   error={errors.location}
-                  info="Please use comma separated values (eg. HTML,CSS,Javascript,PHP)"
+                  info="City or city & state suggested (eg. Boston, Ma)"
                 />
                 <TextFieldGroup
                   placeholder="Skills"
@@ -188,7 +188,7 @@ class CreateProfile extends Component {
                   value={this.state.skills}
                   name="skills"
                   error={errors.skills}
-                  info="City or city & state suggested (eg. Boston, Ma)"
+                  info="Please use comma separated values (eg. HTML,CSS,Javascript,PHP)"
                 />
                 <TextFieldGroup
                   placeholder="Githubusername"

@@ -22,7 +22,7 @@ module.exports = function validateProfileInput(data) {
   }
   if (!isEmpty(data.website)) {
     if (!Validator.isURL(data.website)) {
-      errors.skills = "Not a valid URL";
+      errors.website = "Not a valid URL";
     }
   }
   if (!isEmpty(data.youtube)) {
